@@ -16,6 +16,9 @@
   "msg_blocked_page_label": {
     "message": "Whitelist Manager ha impedido la carga de la página:"
   },
+  "msg_options_addwl_label": {
+    "message": "Add this host to white list"
+  },
   "msg_blocked_instructions_label": {
     "message": "Si deseas ver páginas de $HOSTNAME$, por favor añádelo a tu lista de sitios permitidos.",
     "placeholders": {

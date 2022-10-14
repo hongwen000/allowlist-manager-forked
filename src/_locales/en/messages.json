@@ -16,6 +16,9 @@
   "msg_blocked_page_label": {
     "message": "Whitelist Manager has prevented the following page from loading:"
   },
+  "msg_options_addwl_label": {
+    "message": "Add this host to white list"
+  },
   "msg_blocked_instructions_label": {
     "message": "If you wish to view pages from $HOSTNAME$, please add it to your list of allowed websites.",
     "placeholders": {
